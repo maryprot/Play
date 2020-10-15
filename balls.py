@@ -24,7 +24,7 @@ COLORS = [RED, BLUE, YELLOW, GREEN, MAGENTA, CYAN, WHITE]
 
 class Ball:
     '''
-    Создание экземпляра мяча
+    Создание класса мяча
     '''
     def __init__(self):
         self.new_ball()
@@ -70,7 +70,7 @@ class Ball:
             self.angle = (random() + 0.5) * math.pi
         # Новые параметры для скорости и координат мяча.
         self.v_x = self.v * math.sin(self.angle)
-        self.v_y = self.vel * math.cos(self.angle) * (-1)
+        self.v_y = self.v * math.cos(self.angle) * (-1)
         self.x += self.v_x / FPS
         self.y += self.v_y / FPS
         # Отрисовка  мяча.
@@ -92,7 +92,7 @@ while not finished:
         # Проверяем попадание по шарику.   
         elif event.type == pygame.MOUSEBUTTONDOWN:
             for ball in balls:
-            ball.Clicked(event)
+                ball.Clicked(event)
     # Дальнейшее движение новых шариков.
     for ball in balls:
         ball.move()
