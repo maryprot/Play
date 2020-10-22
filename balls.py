@@ -6,7 +6,7 @@ import csv
 
 pygame.init()
 pygame.font.init()
-
+Name = input("Type your name: ") 
 FPS = 60
 WIDTH = 1200
 HEIGHT = 800
@@ -137,7 +137,7 @@ class Counter:
         surface_counter = labelFont.render(str(self.count), False, WHITE)
         screen.blit(surface_counter, (0, 0))
 
-Name = input("Type your name: ")        
+       
 # Создаем первую партию из 10 двигающихся мячей из класса Ball.
 balls = [Ball(100) for i in range(10)]
 # Создаём двигающийся квадрат из класса Square.
