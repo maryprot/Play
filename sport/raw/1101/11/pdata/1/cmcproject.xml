@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created 2019-07-11T17:35:26
+-->
+<CmcaProject>
+  <cmcaDataFrameworkVersion>0.9</cmcaDataFrameworkVersion>
+  <integralRange class="PeakClusterRange">
+    <properties/>
+    <dataType>UNKNOWN</dataType>
+    <dataName>name not defined</dataName>
+    <selected>false</selected>
+    <dataVisible>true</dataVisible>
+    <region/>
+    <fileType>A</fileType>
+    <peakClusters/>
+  </integralRange>
+  <multipletSet class="de.bruker.nmr.an.cmca1d.CmcaMultipletSet1D" serialization="custom">
+    <unserializable-parents/>
+    <list>
+      <default>
+        <size>0</size>
+      </default>
+      <int>0</int>
+    </list>
+    <MultipletSet1D>
+      <default>
+        <integralNormFactor>1.0</integralNormFactor>
+        <c__multiplet>de.bruker.nmr.an.multiplet1d.Multiplet</c__multiplet>
+        <c__multipletSet>de.bruker.nmr.an.multiplet1d.MultipletSet</c__multipletSet>
+        <delta>
+          <double>5.0E-4</double>
+        </delta>
+        <peakList>
+          <properties/>
+          <dataType>PEAK_LIST</dataType>
+          <dataName>name not defined</dataName>
+          <selected>false</selected>
+          <dataVisible>true</dataVisible>
+          <peakList/>
+          <headerList/>
+          <units>
+            <string>ppm</string>
+          </units>
+          <peakListFileIOFactoryType>XML</peakListFileIOFactoryType>
+          <multipleAddition>false</multipleAddition>
+          <peakListProperties/>
+          <peakOrdinal>0</peakOrdinal>
+        </peakList>
+      </default>
+    </MultipletSet1D>
+  </multipletSet>
+  <prop>
+    <property name="PURITY" value="Unknown"/>
+    <property name="PURITY_AUTOMATION" value="Unknown"/>
+  </prop>
+  <projectVersionNumber>1.2</projectVersionNumber>
+  <projectState>Unknown</projectState>
+  <projectStateAutomation>Unknown</projectStateAutomation>
+  <resultSummary>&lt;no content&gt;</resultSummary>
+  <resultDetails>&lt;no content&gt;</resultDetails>
+  <resultOrigin></resultOrigin>
+  <resultSummaryCreatedByAutomation>false</resultSummaryCreatedByAutomation>
+  <resultDetailsCreatedByAutomation>false</resultDetailsCreatedByAutomation>
+  <manuallyEdited>false</manuallyEdited>
+  <molViewOffsetX>0.05</molViewOffsetX>
+  <molViewOffsetY>0.1</molViewOffsetY>
+  <molViewScale>1.5</molViewScale>
+  <projectDataSets/>
+  <modifiedSinceReport>true</modifiedSinceReport>
+  <predictedShifts/>
+</CmcaProject>

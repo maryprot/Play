@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.0.6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= veronika
+$$ 2019-07-22 15:11:07.617 +0300  veronika@LAPTOP-E900PDFQ
+$$ C:/Users/veronika/Documents/vvp_sport01122015/article/1191/11/pdata/1/assocs
+$$ process C:\Bruker\TopSpin4.0.6\prog\mod\dataserver.exe
+##$MULTDISP= <C:/Users/veronika/Documents/vvp_sport01122015/all_groups/glucose/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1103/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1105/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1107/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1109/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1111/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1113/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1115/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1117/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1119/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1121/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1123/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1125/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1127/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1129/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1131/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1133/11/pdata/1>
+##END=

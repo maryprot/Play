@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.0.6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ 2019-07-22 15:14:13.812 +0300  veronika@LAPTOP-E900PDFQ
+$$ C:/Users/veronika/Documents/vvp_sport01122015/article/1133/11/pdata/1/assocs
+$$ process C:\Bruker\TopSpin4.0.6\prog\mod\dataserver.exe
+##$MULTDISP= <C:/Users/veronika/Documents/vvp_sport01122015/all_groups/glucose/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1135/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1137/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1139/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1141/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1143/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1145/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1149/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1151/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1153/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1155/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1157/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1163/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1161/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1165/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1167/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1169/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1173/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1175/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1177/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1179/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1181/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1183/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1185/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1187/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1189/11/pdata/1|C:/Users/veronika/Documents/vvp_sport01122015/article/1193/11/pdata/1>
+##END=

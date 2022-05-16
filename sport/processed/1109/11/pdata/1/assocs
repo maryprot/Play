@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ 2015-12-10 08:55:19.922 +0400  nmr@CZC2138PD8
+$$ D:/spectra/data/mntlabData/vvp_sport01122015/1109/pdata/1/assocs
+$$ process C:\Bruker\TOPSPIN\prog\mod\dataserver.exe
+##$MULTDISP= <D:/spectra/data/mntlabData/vvp_sport01122015/1111/pdata/1|D:/spectra/data/mntlabData/vvp_sport01122015/1113/pdata/1|D:/spectra/data/mntlabData/vvp_sport01122015/1115/pdata/1|D:/spectra/data/mntlabData/vvp_sport01122015/1117/pdata/1|D:/spectra/data/mntlabData/vvp_sport01122015/1119/pdata/1>
+##END=

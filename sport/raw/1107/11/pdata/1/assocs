@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.0.6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 3	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ 2019-07-15 18:43:20.362 +0300  veronika@LAPTOP-E900PDFQ
+$$ C:/Users/veronika/Documents/vvp_sport01122015/all_groups/1107/11/pdata/1/assocs
+$$ process C:\Bruker\TopSpin4.0.6\prog\mod\dataserver.exe
+##$MULTDISP= <C:/Users/veronika/Documents/vvp_sport01122015/all_groups/glucose/11/pdata/1>
+##END=
